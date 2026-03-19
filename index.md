@@ -6,6 +6,8 @@ layout: home
   <h1 style="font-size:5em; margin-bottom:20px;">Shizunelen</h1>
 </div>
 
+# Education
+
 - National Yang Ming Chiao Tung University
   - Department of Industrial Engineering and Management
   - Department of Information Management and Finance (Information Management Division)
