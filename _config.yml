@@ -3,3 +3,4 @@ description: 個人網站
 theme: minima
 minima:
   skin: dark
+show_excerpts: true
