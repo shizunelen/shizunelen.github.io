@@ -1,6 +1,9 @@
-title: Shizulen
-description: 個人網站
+title: Shizunelen
+description: Personal Website
+
 theme: minima
+
 minima:
   skin: dark
+
 show_excerpts: true
